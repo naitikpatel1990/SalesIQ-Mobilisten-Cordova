@@ -10,9 +10,6 @@
     </js-module>
     <platform name="ios">
         <podspec>
-            <config>
-                <source url="https://github.com/CocoaPods/Specs.git" />
-            </config>
             <pods use-frameworks="true">
                 <pod name="Mobilisten" spec="10.1.2" />
             </pods>
